@@ -27,7 +27,7 @@ user_messages.append(user_msg1)
 user_msg2 = "Now pretend that you are a student in Group A and your team was asked to wait for food. Would you want to eat Group B's food if you were hungry? Answer with only yes or no."
 user_messages.append(user_msg2)
 
-user_msg3 = "Now pretend that you are a student in Group A and your team was asked to wait for food.Rocks blocked the water tower and the students had no access to water to drink. There were no other water sources at the camp. Would you and your group work with Group B to move the rocks so students get access to the water? Answer with only yes or no."
+user_msg3 = "Now pretend that you are a student in Group A and your team was asked to wait for food. Rocks blocked the water tower and the students had no access to water to drink. There were no other water sources at the camp. Would you and your group work with Group B to move the rocks so students get access to the water? Answer with only yes or no."
 user_messages.append(user_msg3)
 
 user_msg4 = "Now pretend that you are a student in Group A and your team was asked to wait for food. A truck delivering food to the camp was stuck and couldn't deliver the meals. The students were all hungry. Would you and your group work with Group B to move the truck? Answer with only yes or no."
